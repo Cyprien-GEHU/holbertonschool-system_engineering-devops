@@ -1,4 +1,4 @@
-# simple web aplication
+# simple web Stack
 ![simple_web_aplication](images/simple_web_application.png)
 
 ## Specification about this infrastructure:
